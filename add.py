@@ -1,5 +1,2 @@
-def Add(a,b):
-    return a+b
-
-x=Add(3,5)
-print(x)
+for i in range(1, 101):
+    print(i)
